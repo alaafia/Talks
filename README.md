@@ -1,9 +1,9 @@
 # 🎤 Aïcha Laafia – Conference Talks & CFP Links
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🌍_Countries-0-blue?style=flat-square" id="badge-countries">
-  <img src="https://img.shields.io/badge/🎤_Talks-0-orange?style=flat-square" id="badge-talks">
-  <img src="https://img.shields.io/badge/🏆_Events-0-green?style=flat-square" id="badge-events">
+  <img src="https://img.shields.io/badge/🌍_Countries-10-blue?style=flat-square" id="badge-countries">
+  <img src="https://img.shields.io/badge/🎤_Talks-23-orange?style=flat-square" id="badge-talks">
+  <img src="https://img.shields.io/badge/🏆_Events-29-green?style=flat-square" id="badge-events">
 </p>
 
 Hi, I'm **Aïcha Laafia**, a Java Software Engineer and international speaker passionate about **Green Software**, **Cloud Sustainability**, and **Developer Well-being**.  
