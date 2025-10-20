@@ -11,11 +11,11 @@ This repository gathers all my past and upcoming talks, CFP links, slides, and r
 |--------|-----------|------|--------------|----------------|
 | **BaselOne 2025** | Basel, Switzerland | October 2025 | *Java in the Green Cloud* | |
 | **Devoxx Belgium 2025** | Antwerp, Belgium | October 2025 | *What the Duck? 🦆 The Hidden Crisis in Tech* | [🎥 Replay](https://www.youtube.com/watch?v=aemFEi5N8Ho)  |
-| **vJUG June Meetup** | Online | June 2025 | *Building Sustainable Software with Java: Tips & Techniques* | [🎥 Replay]([https://www.youtube.com/watch?v=q6DM_spfRHE](https://www.youtube.com/watch?v=q6DM_sfRhpE)) |
-| **JCON Europe 2025** | Cologne, Germany | May 2025 | *Java in the Green Cloud: Eco-Friendly Development with Kubernetes* | [🎥 Replay]([https://www.youtube.com/watch?v=CvFMhwGC_gY](https://www.youtube.com/watch?v=CvFMhwGC_gY)) |
+| **vJUG June Meetup** | Online | June 2025 | *Building Sustainable Software with Java: Tips & Techniques* | [🎥 Replay](https://www.youtube.com/watch?v=q6DM_sfRhpE) |
+| **JCON Europe 2025** | Cologne, Germany | May 2025 | *Java in the Green Cloud: Eco-Friendly Development with Kubernetes* | [🎥 Replay](https://www.youtube.com/watch?v=CvFMhwGC_gY) |
 | **JavaLand 2025** | Bad Neuenahr-Ahrweiler, Germany | April 2025 | *Java in the Green Cloud* | |
-| **Women on Stage 2025 (IWD Edition)** | Online | March 2025 | *Tech Event Planning 101* |   [🎥 Replay] |
-| **International Women’s Day Kigali 2025** | Kigali, Rwanda | March 2025 | *Java and Kubernetes in the Service of the Environment * | TBD |
+| **Women on Stage 2025 (IWD Edition)** | Online | March 2025 | *Tech Event Planning 101* |   [🎥 Replay](https://www.youtube.com/watch?v=XHEFNltrurY) |
+| **International Women’s Day Kigali 2025** | Kigali, Rwanda | March 2025 | *Java and Kubernetes in the Service of the Environment * | |
 | **IWD Ahlen 2025** | Ahlen, Germany | March 2025 | *Java and Kubernetes in the Service of the Environment * |  [[🎥 Replay]](https://www.youtube.com/watch?v=Y84ir57Gd4Y) |
 | **ITHolic 4.0** | Rabat, Morocco | March 2025 | *Panel: Engineers Powering Green IT* | |
 | **DevWorld Conference 2025** | Amsterdam, Netherlands | February 2025 | *Building Sustainable Software with Java: Tips & Techniques
@@ -30,13 +30,13 @@ This repository gathers all my past and upcoming talks, CFP links, slides, and r
 | **TAG Environmental Sustainability Week 2024** | Online | October 2024 | *Green Cloud Efficiency – Measuring Impact* | [🎥 Replay](https://www.youtube.com/watch?v=CvFMhwGC_gY) |
 | **KCD Porto 2024** | Porto, Portugal | September 2024 | *Green Kubernetes Deployments* | |
 | **WeAreDevelopers Live (Season 8)** | Online | September 2024 | *Bug-Proof Your Code – How to Break Up with Bugs Before They Break You* | [🎥 Replay](https://www.wearedevelopers.com/en/videos/1207/let-s-make-your-java-code-bug-proof) |
-| **DevBcn 2024** | Barcelona, Spain | June 2024 | *Green Programming in Java – Building a Sustainable Future* | [🎥 Replay]([https://www.youtube.com/watch?v=q6DM_sfRHpE](https://www.youtube.com/watch?v=7arTsCRnhYg)) |
+| **DevBcn 2024** | Barcelona, Spain | June 2024 | *Green Programming in Java – Building a Sustainable Future* | [🎥 Replay](https://www.youtube.com/watch?v=7arTsCRnhYg) |
 | **Voxxed Days Luxembourg 2024** | Luxembourg | June 2024 | *Who Runs the World? JAVA!!!!* | [🎥 Replay](https://www.youtube.com/watch?v=vK6utF9V2lc) |
 | **IWD Honduras 2024** | Tegucigalpa, Honduras | April 2024 | *Tech Event Planning 101* |  |
-| **BizTech Conf 2024** | Online | April 2024 | *Community Resilience * | [🎥 Replay](https://www.youtube.com/watch?v=XHEFNltrurY) |
+| **BizTech Conf 2024** | Online | April 2024 | *Community Resilience * | |
 | **BlaBlaConf 2024 🇲🇦 سوق التيك المغربي** | Morocco | February 2024 | *Who Runs the World? JAVA* |  |
 | **CodeFrenzy 2024** | Kraków, Poland | February 2024 | *Embracing Failure: A Mindset Shift for Improved Java Error Handling
-* | TBD |
+* | |
 
 ---
 
