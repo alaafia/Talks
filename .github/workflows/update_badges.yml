@@ -1,0 +1,38 @@
+name: Update speaker stats badges
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 9 * * 1" # every Monday at 9am UTC
+  workflow_dispatch:
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Count talks and events
+        id: stats
+        run: |
+          TALK_COUNT=$(grep -cE '^\| \*\*' README.md || echo 0)
+          EVENT_COUNT=$(grep -cE '^\|' README.md || echo 0)
+          COUNTRY_COUNT=$(grep -Eo '\| [A-Z][a-z]+, [A-Z][a-z]+' README.md | awk -F',' '{print $2}' | sort | uniq | wc -l)
+          echo "talks=$TALK_COUNT" >> $GITHUB_OUTPUT
+          echo "events=$EVENT_COUNT" >> $GITHUB_OUTPUT
+          echo "countries=$COUNTRY_COUNT" >> $GITHUB_OUTPUT
+
+      - name: Update README badges
+        run: |
+          sed -i "s/badge\/🌍_Countries-[0-9]*/badge\/🌍_Countries-${{ steps.stats.outputs.countries }}/" README.md
+          sed -i "s/badge\/🎤_Talks-[0-9]*/badge\/🎤_Talks-${{ steps.stats.outputs.talks }}/" README.md
+          sed -i "s/badge\/🏆_Events-[0-9]*/badge\/🏆_Events-${{ steps.stats.outputs.events }}/" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "🔄 Auto-update badges" || echo "No changes to commit"
+          git push
