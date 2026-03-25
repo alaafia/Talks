@@ -10,7 +10,14 @@ Hi, I'm **Aïcha Laafia**, a Java Software Engineer and international speaker pa
 This repository gathers all my past and upcoming talks, CFP links, slides, and replays for event organizers and CFP reviewers.
 
 ---
+## 🌍 2026 Speaking Engagements
 
+| Event | Location | Date | Talk / Topic | Replay / Slides |
+|--------|-----------|------|--------------|----------------|
+| **Voxxed Days Amsterdam 2026** | Amsterdam, Netherlands | April 1, 2026 | *Stream Tricks That You Don’t Wanna Miss!* | [💻 Event Link](https://schedule.jcon.one/2026/session/1036111) |
+| **JCON Europe 2026** | Cologne, Germany | April 22, 2026 | *What the Duck? 🦆 The Hidden Crisis in Tech* | [💻 Event Link](https://m.devoxx.com/events/vdams26/talks/3175/stream-tricks-that-you-dont-wanna-miss-) |
+
+---
 ## 🌍 2025 Speaking Engagements
 
 | Event | Location | Date | Talk / Topic | Replay / Slides |
