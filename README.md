@@ -38,6 +38,7 @@ This repository gathers all my past and upcoming talks, CFP links, slides, and r
 ---
 
 ## 🌱 2024 Events
+
 | Event | Location | Date | Talk / Topic | Replay / Slides |
 |--------|-----------|------|--------------|----------------|
 | **TAG Environmental Sustainability Week 2024** | Online | October 2024 | *Building Eco-Friendly JAVA Applications on Kubernetes* | [🎥 Replay](https://www.youtube.com/watch?v=CvFMhwGC_gY) |
