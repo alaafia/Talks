@@ -50,7 +50,6 @@ This repository gathers all my past and upcoming talks, CFP links, slides, and r
 | **BizTech Conf 2024** | Online | April 2024 | *Who Runs the World? JAVA* | |
 | **BlaBlaConf 2024 🇲🇦 سوق التيك المغربي** | Morocco | February 2024 | *Who Runs the World? JAVA* | |
 | **CodeFrenzy 2024** | Kraków, Poland | February 2024 | *Embracing Failure: A Mindset Shift for Improved Java Error Handling* | |
-
 ---
 
 ## ☕ 2023–2022 Highlights
