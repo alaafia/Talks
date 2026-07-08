@@ -14,6 +14,8 @@ This repository gathers all my past and upcoming talks, CFP links, slides, and r
 
 | Event | Location | Date | Talk / Topic | Replay / Slides |
 |--------|-----------|------|--------------|----------------|
+| **Devfest Lyon 2026** | Lyon, France | December 4, 2026 | *Scalable, Vert et Pas Cher sur Kubernetes* |  |
+| **BaselOn 2026** | Basel, Switzerland | October 14-15, 2026 | *What the Duck? 🦆 The Hidden Crisis in Tech* | |
 | **JCON Europe 2026** | Cologne, Germany | April 22, 2026 | *What the Duck? 🦆 The Hidden Crisis in Tech* | [💻 Event Link](https://schedule.jcon.one/2026/session/1036111) |
 | **Voxxed Days Amsterdam 2026** | Amsterdam, Netherlands | April 1, 2026 | *Stream Tricks That You Don't Wanna Miss!* | [💻 Event Link](https://youtu.be/l3xcqAAtedE?t=113) |
 
