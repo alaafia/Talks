@@ -20,7 +20,6 @@ This repository gathers all my past and upcoming talks, CFP links, slides, and r
 | **JCON Europe 2026** | Cologne, Germany | April 22, 2026 | *What the Duck? 🦆 The Hidden Crisis in Tech* | [💻 Event Link](https://schedule.jcon.one/2026/session/1036111) |
 | **Voxxed Days Amsterdam 2026** | Amsterdam, Netherlands | April 1, 2026 | *Stream Tricks That You Don't Wanna Miss!* | [💻 Event Link](https://youtu.be/l3xcqAAtedE?t=113) |
 
-
 ---
 ## 🌍 2025 Speaking Engagements
 
