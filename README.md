@@ -11,6 +11,7 @@ This repository gathers all my past and upcoming talks, CFP links, slides, and r
 
 ---
 ## 🌍 2026 Speaking Engagements
+
 | Event | Location | Date | Talk / Topic | Replay / Slides |
 |--------|-----------|------|--------------|----------------|
 | **Devfest Lyon 2026** | Lyon, France | December 4, 2026 | *Scalable, Vert et Pas Cher sur Kubernetes* |  |
